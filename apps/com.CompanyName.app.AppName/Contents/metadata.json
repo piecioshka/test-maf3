@@ -1,0 +1,27 @@
+{
+    "identifier": "com.CompanyName.app.AppName",
+    "name": "My App",
+    "version": "1.0.0",
+    "author": "My Name",
+    "company": "My Company",
+    "copyright": "Copyright Company",
+    "description": "A description of the App",
+    "keywords": "video funny kids music",
+    "categories": [
+        "video",
+        "music",
+        "kids"
+    ],
+    "scripts": "Javascript/init.js",
+    "images": {
+        "header": {
+            "normal": "Images/header.png",
+            "focused": "Images/header-focused.png"
+        },
+        "about": "Images/about.png",
+        "icon": {
+            "192x192": "Images/icon.png",
+            "280x166": "Images/snippet.png"
+        }
+    }
+}
