@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# App
+node_modules
+
+# OS
+*.DS_Store
+*.svn
+*.orig
+*.rej
+*~
